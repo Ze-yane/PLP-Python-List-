@@ -1,8 +1,11 @@
 # PLP-Python-List-
-Creating a list with Python 
+Creating a list with Python 🐍
 
 This project demonstrates basic Python list operations including appending, inserting, extending, removing, sorting, and finding the index of a specific element.
 
+Description📝
+
+The script perform the following tasks.
 
 1.Create an empty list called my_list.
 
@@ -20,3 +23,6 @@ This project demonstrates basic Python list operations including appending, inse
 
 Usage
 Run the script using Python 3
+
+Output ▶️
+The final output will display the index of the number "30" in the sorted list.
